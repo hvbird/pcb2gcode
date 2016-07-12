@@ -454,6 +454,6 @@ int main(int argc, char* argv[])
         cout << "not specified.\n";
     }
 
-    cout << "END." << endl;
+    cout << "END custom Grbl version." << endl;
 
 }
